@@ -1,0 +1,11 @@
+{
+  "datacenter": "local",
+  "data_dir": "/data",
+  "ui_dir": "/ui",
+  "client_addr": "0.0.0.0",
+  "server": true,
+  "ports": {
+    "dns": 53
+  },
+  "recursor": "8.8.8.8"
+}
